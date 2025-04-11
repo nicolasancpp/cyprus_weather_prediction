@@ -1,0 +1,15 @@
+Predicted Monthly Averages for 2025:
+          MonthTemperature (Celsius)
+---------------------------------------------
+        January               12.08
+       February               12.98
+          March               15.92
+          April               19.40
+            May               22.91
+           June               25.38
+           July               29.57
+         August               27.72
+      September               26.46
+        October               21.77
+       November               18.70
+       December               14.53
